@@ -1,1 +1,1 @@
-Sitemap: https://raja-boja.github.io/sitemap.xml
+Sitemap: https://rajaboja.github.io/raja-boja/sitemap.xml
